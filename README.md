@@ -54,7 +54,7 @@
 </details>
 <details markdown="1"> <summary>Open Source</summary> 
 
-کلیه سورس کدها در [گیت هاب](https://github.com/hiddify/hiddify-config) 
+کلیه سورس کدها در [گیت هاب](https://github.com/absoonoo/hiddify-config) 
 </details>
 
 <details markdown="1"> <summary>ارائه گزارش وضعیت سرویس </summary>
@@ -79,7 +79,7 @@ ENABLE_AUTO_UPDATE=false
 </details>
 
 
-# [آموزش نصب و راه اندازی (کلیک کنید)](https://github.com/hiddify/hiddify-config/wiki#کانال-تلگرام-ما-کلیک-کنید)
+# [آموزش نصب و راه اندازی (کلیک کنید)](https://github.com/absoonoo/hiddify-config/wiki#کانال-تلگرام-ما-کلیک-کنید)
 
 
 # [کانال تلگرام ما](https://t.me/hiddify)
@@ -88,7 +88,7 @@ ENABLE_AUTO_UPDATE=false
 
 با امکان تولید qrcode
 
-![HiddifyPanel](https://raw.githubusercontent.com/hiddify/hiddify-config/main/docs/HiddifyPanel.webp)
+![HiddifyPanel](https://raw.githubusercontent.com/absoonoo/hiddify-config/main/docs/HiddifyPanel.webp)
 
 <!--
 ![HiddifyPanel](https://user-images.githubusercontent.com/114227601/211161591-13ec01df-b4a9-4bbb-b147-c8ecc52dc0f9.gif)
